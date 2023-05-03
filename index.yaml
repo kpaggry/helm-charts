@@ -9,6 +9,6 @@ entries:
     name: litr-tcp
     type: application
     urls:
-    - litr-tcp-0.1.0.tgz
-    version: 0.1.0
+    - litr-tcp-0.1.1.tgz
+    version: 0.1.1
 generated: "2023-05-02T18:44:10.651939-06:00"
